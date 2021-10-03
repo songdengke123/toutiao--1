@@ -40,5 +40,18 @@
       "vue-cli-service lint",
       "git add"
     ]
-  }
+  },
+  "description": "## Project setup ``` npm install ```",
+  "main": ".eslintrc.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/songdengke123/toutiao--1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/songdengke123/toutiao--1/issues"
+  },
+  "homepage": "https://github.com/songdengke123/toutiao--1#readme"
 }
